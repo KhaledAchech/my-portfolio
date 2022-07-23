@@ -1,0 +1,10 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "My protfolio in form of a custom os.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khaled Achech",
+  "license": "MIT"
+}
